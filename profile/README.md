@@ -1,5 +1,5 @@
 ## C242-PS117 JuKang ID | Product-based Capstone Project
-*"Reliable, Fast, and Transparent Home Solutions."*
+*"Juru Tukang ID: Reliable, Fast, and Transparent Home Solutions."*
 
 #### **Theme:** Economics Empowerment: Navigating Sustainable Economies for All
 
