@@ -15,16 +15,16 @@ The app also features a recommendation system using RNN-LSTM to suggest suitable
 | **Bangkit ID**    | **Name**                   | **Learning Path**   | **University**                     | **LinkedIn**                                                                                                                                              |
 |--------------------|----------------------------|---------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | M117B4KX4286       | Talitha Husna Salsabila   | Machine Learning    | Institut Teknologi Nasional Bandung | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talithahusnaa/)|
-| M013B4KX1328       | Fadia Zahran Zain         | Machine Learning    | Universitas Terbuka                 | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)                      |
-| M013B4KY1192       | Dwi Hadi Yulvi Baskoro    | Machine Learning    | Universitas Terbuka                 | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)                      |
-| C529B4KY1707       | Hanif Fahruddin           | Cloud Computing     | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)                      |
-| C529B4KY0633       | Ariel Wira Ramadhan       | Cloud Computing     | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)                      |
-| A529B4KY1624       | Gilang Arya Libna         | Mobile Development  | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)                      |
-| A529B4KY2457       | Meirlansyah Rangga        | Mobile Development  | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)                      |
+| M013B4KX1328       | Fadia Zahran Zain         | Machine Learning    | Universitas Terbuka                 | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadiazahranzain/)                      |
+| M013B4KY1192       | Dwi Hadi Yulvi Baskoro    | Machine Learning    | Universitas Terbuka                 | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadhibaskoro-/)                      |
+| C529B4KY1707       | Hanif Fahruddin           | Cloud Computing     | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-fahruddin-bb3646330/)                      |
+| C529B4KY0633       | Ariel Wira Ramadhan       | Cloud Computing     | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-wira-ramadan-135a76330/)                      |
+| A529B4KY1624       | Gilang Arya Libna         | Mobile Development  | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-arya-libna-718578255/)                      |
+| A529B4KY2457       | Meirlansyah Rangga        | Mobile Development  | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meirlansyahrangga/)                      |
 
 ### Video Documentation
 - Youtube Presentation: 
 - Live Demo Application: 
   
 ### Download Apps
-- You can download it here: [GDrive Link - APK DEBUG](https://github.com/)
+- You can download it here:
