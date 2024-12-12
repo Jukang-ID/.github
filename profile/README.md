@@ -10,7 +10,7 @@ We use cloud computing to power the backend with JavaScript and the Hapi framewo
 The app also features a recommendation system using RNN-LSTM to suggest suitable handymen based on common repair problems. With its simple design and practical features, users can confidently book handyman services while workers can find jobs that match their skills, creating a transparent and efficient solution for everyone involved.
 
 ### Team Member
-// image
+![Team Member](.github/profile/member.jpg)
 
 | **Bangkit ID**    | **Name**                   | **Learning Path**   | **University**                     | **LinkedIn**                                                                                                                                              |
 |--------------------|----------------------------|---------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
