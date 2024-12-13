@@ -23,8 +23,8 @@ The app also features a recommendation system using RNN-LSTM to suggest suitable
 | A529B4KY2457       | Meirlansyah Rangga        | Mobile Development  | Politeknik Negeri Pontianak         | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meirlansyahrangga/)                      |
 
 ### Video Documentation
-- Youtube Presentation: ![]https://youtu.be/TjSIwdvLlUc)
-- Live Demo Application: ![](https://youtu.be/AlCCd8qaQvs)
+- Youtube Presentation: https://youtu.be/TjSIwdvLlUc
+- Live Demo Application: https://youtu.be/AlCCd8qaQvs
   
 ### Download Apps
-- You can download it here: ![](https://github.com/Jukang-ID/Jukang-MD/releases/tag/new)
+- You can download it here: https://github.com/Jukang-ID/Jukang-MD/releases/tag/new
