@@ -27,4 +27,4 @@ The app also features a recommendation system using RNN-LSTM to suggest suitable
 - Live Demo Application: 
   
 ### Download Apps
-- You can download it here:
+- You can download it here: ![download here](https://github.com/Jukang-ID/Jukang-MD/releases/tag/new)
